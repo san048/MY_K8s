@@ -14,4 +14,4 @@ spec:
     protocol: TCP
   selector:
     app: myjava
-  
+    version: 2.1.6
