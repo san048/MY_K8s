@@ -11,6 +11,7 @@ spec:
     metadata:
       labels:
         app: myjava
+        version: 2.1.6
         
     spec:
       containers:

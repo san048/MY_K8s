@@ -4,6 +4,7 @@ metadata:
   name: san-svc
   labels:
     app: myjava
+    version: 2.1.6
   
 spec:
   type: NodePort
