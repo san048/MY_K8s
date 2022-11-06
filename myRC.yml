@@ -6,6 +6,7 @@ spec:
   replicas: 5
   selector:
     app: myjava
+    version: 2.1.6
 
   template:
     metadata:
